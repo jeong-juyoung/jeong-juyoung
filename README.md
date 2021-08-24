@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   <a href="#">
     
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=hi%20 there 👋&fontSize=90" /><br><br> 
-  <h3 align="center" style="margin-top: -85px;">📚 Stack</h3>
+  <h3 align="center" style="margin-top: -85px;">💜 Stack 💜 </h3>
     <p>
       <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>&nbsp;
       <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>&nbsp;
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
     </p>
   </a>
   
-  <h3 align="center">📌 I've used </h3>
+  <h3 align="center">💙 I've used 💙</h3>
   <p>
     <a href="jungjuyoung1314@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp;
     <a href="https://jung-juyoung.notion.site/b4383daf8405411aa05c4115acfab9b8">
@@ -43,7 +43,6 @@ Here are some ideas to get you started:
     <br><br>
   </p>
   
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeong-juyoung&layout=compact)</a>
 </div>
 
 
