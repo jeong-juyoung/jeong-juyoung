@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **jeong-juyoung/jeong-juyoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=jung%20juyoung&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=hi%20 there 👋&fontSize=90" />
 
 
