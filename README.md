@@ -40,11 +40,10 @@ Here are some ideas to get you started:
     <a href="jungjuyoung1314@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp;
     <a href="https://jung-juyoung.notion.site/b4383daf8405411aa05c4115acfab9b8">
       <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
-       <a href="#"><img src="https://img.shields.io/badge/Slack-#4A154B?style=flat-square&logo=Slack&logoColor=white"/></a>
     <br><br>
   </p>
   
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sora-zip&layout=compact)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeong-juyoung&layout=compact)</a>
 </div>
 
 
