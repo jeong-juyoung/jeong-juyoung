@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <div align="center">
   <a href="#">
     
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=b3e0ff&height=150&section=header&text=　　　　　　　　　　　　　　　　%20🐚&fontSize=35&)<br> 
+  ![header]<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
   <h3 align="center" style="margin-top: -85px;">📚 Stack</h3>
     <p>
       <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>&nbsp;
