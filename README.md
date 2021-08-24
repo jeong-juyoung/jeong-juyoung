@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <div align="center">
   <a href="#">
     
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=jung%20 juyoung 👋&fontSize=30" /><br><br> 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi ! %20 there 👋&fontSize=30" /><br><br> 
   <h3 align="center" style="margin-top: -85px;">💜 Stack 💜 </h3>
     <p>
       <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>&nbsp;
