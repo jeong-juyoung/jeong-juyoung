@@ -44,7 +44,7 @@ Here are some ideas to get you started:
   </p>
   
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjeong-juyoung&count_bg=%23DCC1ED&title_bg=%23FFE0A8&icon=&icon_color=%23150000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjeong-juyoung&count_bg=%23DCC1ED&title_bg=%23FFE0A8&icon=&icon_color=%23150000&title=today&edge_flat=false)]
 
   
 </div>
