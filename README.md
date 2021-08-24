@@ -35,7 +35,7 @@ Here are some ideas to get you started:
   
   <h3 align="center">📌 About</h3>
   <p>
-    <a href="mailto:64796zip@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp;
+    <a href="jungjuyoung1314@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp;
     <a href="#"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
     <br><br>
   </p>
