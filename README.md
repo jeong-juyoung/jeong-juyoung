@@ -7,7 +7,7 @@
 - 🌱 새로운 기술을 배우는 것을 좋아합니다
 - 💡 모르는 건 주저하지 않고 질문하며 배워갑니다
 
-## 💻 기술 스택 (Tech Stack) 
+## 💻 Skills & Language
 
 ### 🔤 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
