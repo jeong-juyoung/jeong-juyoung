@@ -7,7 +7,7 @@
 - 🌱 새로운 기술을 배우는 것을 좋아합니다
 - 💡 모르는 건 주저하지 않고 질문하며 배워갑니다
 
-## 기술 스택 (Tech Stack) 💻
+## 💻 기술 스택 (Tech Stack) 
 
 ### 🔤 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -31,7 +31,7 @@
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 
-# Contact me 🧑‍💻
+## 🧑‍💻 Contact me 
 
 <div align="left">
     <a href="https://juyoung-jung.tistory.com/">
