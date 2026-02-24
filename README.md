@@ -1,12 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=F5C0CA&text=Jung%20Juyoung's%20GitHub%20&height=150&fontSize=60&descAlignY=75&descAlign=60" alt="Jung Juyoung's GitHub">
 
-
-## About Me
-- 💻 4년차 엔지니어입니다
-- 🤖 자동화에 관심이 많습니다
-- 🌱 새로운 기술을 배우는 것을 좋아합니다
-- 💡 모르는 건 주저하지 않고 질문하며 배워갑니다
-
 ## 💻 Skills & Language
 
 ### 🔤 Languages
